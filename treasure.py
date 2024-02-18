@@ -30,14 +30,14 @@ if option_1 == "left":
   if option_2 == "wait":
     option_3 = input('You arrived at the island unharmed. There is a house with 3 doors. One "red", one "Yellow" and one "Blue". Which colour do you choose? ').lower()
     if option_3 == "red":
-      print("You ran into a room full of fire, game over!!!")
+      print("You ran into a room full of fire, GAME OVER!!!")
     elif option_3 == "yellow":
       print("You found the treasure, YOU WIN !!!")
     elif option_3 == "blue":
-      print("You ran into a room full of beasts, game over!!!")
+      print("You ran into a room full of beasts, GAME OVER!!!")
     else:
       print("Wrong input, GAME OVER!!!")
   else:
     print("You got attacked by a trout, game over!!!")
 else:
-  print("You fell into a hole, game over!!!")
+  print("You fell into a hole, GAME OVER!!!")
