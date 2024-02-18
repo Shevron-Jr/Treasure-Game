@@ -36,7 +36,7 @@ if option_1 == "left":
     elif option_3 == "blue":
       print("You ran into a room full of beasts, game over!!!")
     else:
-      print("Wrong input, game over!!!")
+      print("Wrong input, GAME OVER!!!")
   else:
     print("You got attacked by a trout, game over!!!")
 else:
