@@ -38,6 +38,6 @@ if option_1 == "left":
     else:
       print("Wrong input, GAME OVER!!!")
   else:
-    print("You got attacked by a trout, game over!!!")
+    print("You got attacked by a trout, GAME OVER!!!")
 else:
   print("You fell into a hole, GAME OVER!!!")
